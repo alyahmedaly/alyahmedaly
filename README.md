@@ -1,29 +1,42 @@
-### Hi there 👋
-<a href="https://github.com/alyahmedaly/">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyahmedaly&theme=vue-dark&line_height=22&layout=compact&hide=less" />
+# Hi there 👋, I'm Aly Ahmed
+
+<a href="https://www.linkedin.com/in/alyahmedaly/" target="_blank">
+  <img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<!--
-<p align="center">
-  <a href="https://github.com/alyahmedaly">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alyahmedaly&count_private=true&show_icons=true&theme=light" />
-  </a>
-  <a href="https://github.com/alyahmedaly">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyahmedaly&layout=compact&theme=light" />
-  </a>
-</p>
--->
-<!--
-**alyahmedaly/alyahmedaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Frontend Architect** with over 12 years in software engineering. My core focus is on designing, architecting, and leading the development of **robust, high-performance, and scalable web platforms** that deliver exceptional user experiences.
 
-Here are some ideas to get you started:
+I thrive in dynamic, agile environments and enjoy collaborating with cross-functional teams to solve complex challenges, drive innovation, and bridge the gap between technical vision and product goals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Key Areas of Expertise:**
+*   Designing complex frontend architectures (Microfrontends, Monorepos, Design Systems).
+*   Building scalable and maintainable UI components and applications.
+*   Optimizing web performance and ensuring application resilience.
+*   Leading and mentoring frontend development teams.
+
+💡 **Current Interests:**
+*   Deeply exploring **Artificial Intelligence (AI)**, particularly agentic patterns and LLMs.
+*   Leveraging AI for enhancing developer workflows (brainstorming, code generation).
+*   Integrating intelligent AI features directly into user-facing products.
+
+---
+
+### 🛠️ Technologies & Tools I Work With:
+
+*   **Languages:** **TypeScript**, JavaScript, HTML5, CSS3
+*   **Frameworks/Libraries:** **React.js**, **Angular**, Node.js
+*   **Architecture & Concepts:** Frontend Architecture, Scalability, Performance Optimization, System Design, REST APIs
+*   **AI:** AI Integration, Prompt Engineering
+*   **Tools & Methods:** Git, Docker, CI/CD Pipelines, Agile Methodologies, Scrum, Testing (Jest, Cypress)
+
+---
+
+### 📫 Let's Connect Professionally:
+
+*   Find me on [**LinkedIn**](https://www.linkedin.com/in/alyahmedaly/)
+
+---
+
+*P.S. Check out my pinned repositories below! 👇 You might find experiments with various frontend technologies, architectural patterns, and recent explorations into AI concepts (like contributions to `microsoft/genaiscript`).*
+
+*(Note: Also known officially as Ali Aboafifi)*
